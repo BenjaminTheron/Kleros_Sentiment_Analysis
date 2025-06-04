@@ -1,0 +1,12 @@
+# The following format is stored for each case (JSON)
+{
+    "caseID": {
+        "appeal": {},
+        "description": {},
+        "evidence": {},
+        "outcome": {},
+        "court": {},
+        "votes": {},
+        "start_date": {}
+    }
+}

@@ -1,0 +1,387 @@
+#1658 - No evidence given in the case case loaded correctly.
+#1657 - No evidence would load - GENERAL COURT
+#1656 - No evidence would load - GENERAL COURT
+#1655 - No evidence would load - GENERAL COURT
+#1654 - No evidence would load - GENERAL COURT
+1653 - Evidence added to the case data
+26 - No evidence provided to case, otherwise fine
+38 - Evidence added to the case data.
+105 - No evidence provided to case, otherwise fine
+107 - No evidence provided to case, otherwise fine
+108 - No evidence provided to case, otherwise fine
+109 - No evidence provided to case, otherwise fine
+112 - No evidence provided to case, otherwise fine
+120 - No evidence provided to case, otherwise fine
+129 - Evidence added to the case data
+131 - No evidence provided to case, otherwise fine
+138 - Evidence added to the case data
+139 - Evidence added to the case data
+140 - Evidence added to the case data
+141 - Only evidence provided to this case is in the form of links/ tweets, so it is safely ignored.
+142 - No evidence provided to case, otherwise fine
+143 - Evidence added to the case data
+144 - Evidence added to the case data
+145 - Evidence added to the case data
+149 - No evidence would load - GENERAL COURT
+150 - No evidence would load - GENERAL COURT
+151 - No evidence would load - GENERAL COURT
+155 - Evidence added to the case data
+156 - No evidence would load - GENERAL COURT
+157 - Evidence added to the case data
+158 - Evidence added to the case data
+161 - No evidence provided to the case, otherwise fine
+162 - No evidence provided to the case, otherwise fine
+163 - Evidence added to the case data
+164 - Evidence added to the case data
+166 - No evidence provided to the case, otherwise fine
+167 - No evidence provided to the case, otherwise fine
+169 - No evidence provided to the case, otherwise fine
+170 - No evidence provided to the case, otherwise fine
+172 - HAD TO ALTER EXISTING DATA, additionally, evidence was added to the case data
+173 - No content in the two evidence boxes provided on the case page
+174 - No evidence provided to the case, otherwise fine
+175 - Evidence added to the case data
+176 - No evidence provided to the case, otherwise fine
+178 - No evidence provided to the case, otherwise fine
+179 - No evidence provided to the case, otherwise fine
+180 - No evidence provided to the case, otherwise fine
+185 - No content in the evidence box provided on the case page
+186 - No evidence provided to the case, otherwise fine
+187 - No evidence provided to the case, otherwise fine
+188 - No evidence provided to the case, otherwise fine
+191 - No evidence provided to the case, otherwise fine
+192 - Evidence added to the case data
+194 - No evidence provided to the case, otherwise fine
+195 - No evidence provided to the case, otherwise fine
+197 - Evidence added to the case data
+200 - No evidence provided to the case, otherwise fine
+205 - Evidence added to the case data
+206 - Evidence added to the case data
+212 - No evidence provided to the case, otherwise fine
+215 - No evidence provided to the case, otherwise fine
+219 - Evidence added to the case data
+220 - No evidence provided to the case, otherwise fine
+221 - No evidence provided to the case, otherwise fine
+222 - No evidence provided to the case, otherwise fine
+226 - No evidence provided to the case, otherwise fine
+228 - Evidence added to the case data
+229 - No evidence provided to the case, otherwise fine
+230 - No evidence provided to the case, otherwise fine
+232 - No evidence provided to the case, otherwise fine
+240 - No evidence provided to the case, otherwise fine
+241 - No evidence provided to the case, otherwise fine
+265 - Evidence added to the case data
+302 - No evidence would load - GENERAL COURT
+365 - Evidence added to the case data
+411 - Evidence added to the case data
+413 - Evidence added to the case data
+414 - Evidence added to the case data
+415 - Evidence added to the case data
+416 - Evidence added to the case data
+417 - Evidence added to the case data
+419 - Evidence added to the case data
+420 - Evidence added to the case data
+421 - Evidence added to the case data
+422 - Evidence added to the case data
+423 - Evidence added to the case data
+426 - Evidence added to the case data
+427 - Evidence added to the case data
+451 - Evidence added to the case data
+479 - Evidence added to the case data
+485 - Evidence added to the case data
+488 - No evidence would load - SPANISH-ENGLISH TRANSLATION COURT
+501 - Evidence added to the case data
+502 - Evidence added to the case data
+503 - Evidence added to the case data
+504 - Evidence added to the case data
+505 - Evidence added to the case data
+507 - Evidence added to the case data
+508 - Evidence added to the case data
+509 - Evidence added to the case data
+510 - Evidence added to the case data
+511 - No evidence would load - SPANISH-ENGLISH TRANSLATION COURT
+512 - Evidence added to the case data
+513 - Evidence added to the case data
+514 - Evidence added to the case data
+515 - Evidence added to the case data
+526 - No evidence would load - TURKISH-ENGLISH TRANSLATION COURT
+532 - No evidence would load - GENERAL COURT
+533 - No evidence would load - TURKISH-ENGLISH TRANSLATION COURT
+535 - No evidence would load - TECHNICAL COURT (subsection of GENERAL COURT)
+541 - EXTRA evidence added to the case
+545 - No evidence would load - TURKISH-ENGLISH TRANSLATION COURT
+546 - No evidence would load - CHINESE-ENGLISH TRANSLATION COURT
+548 - EXTRA evidence added to the case
+549 - EXTRA evidence added to the case
+550 - EXTRA evidence added to the case
+559 - EXTRA evidence added to the case
+560 - UNSUPPORTED NETWORK ERROR WHEN TRYING TO ACCESS THE PAGE ?
+561 - EXTRA evidence added to the case
+567 - EXTRA evidence added to the case
+570 - EXTRA evidence added to the case
+574 - EXTRA evidence added to the case
+592 - EXTRA evidence added to the case
+640 - EXTRA evidence added to the case
+641 - EXTRA evidence added to the case
+663 - No evidence would load - CHINESE-ENGLISH TRANSLATION COURT
+669 - Evidence added to the case data
+670 - Evidence added to the case data
+671 - Evidence added to the case data
+672 - Evidence added to the case data
+673 - Evidence added to the case data
+674 - Evidence added to the case data
+766 - Evidence added to the case data
+823 - EXTRA evidence added to the case
+824 - No evidence provided to the case, otherwise fine
+869 - No evidence would load - CHINESE-ENGLISH TRANSLATION COURT
+885 - Evidence added to the case data
+912 - No evidence provided to the case, otherwise fine
+913 - No evidence provided to the case, otherwise fine
+929 - No evidence provided to the case, otherwise fine
+932 - No evidence provided to the case, otherwise fine
+933 - No evidence provided to the case, otherwise fine
+1038 - No evidence would load - GENERAL COURT
+1125 - No evidence would load - GENERAL COURT
+1136 - No evidence provided to the case, otherwise fine
+1173 - Evidence + EXTRA evidence added to the case
+1174 - EXTRA evidence added to the case
+1176 - EXTRA evidence added to the case
+1180 - No evidence provided to the case, otherwise fine
+1181 - No evidence provided to the case, otherwise fine
+1182 - EXTRA evidence added to the case
+1183 - No evidence provided to the case, otherwise fine
+1184 - No evidence provided to the case, otherwise fine
+1185 - No evidence provided to the case, otherwise fine
+1186 - EXTRA evidence added to the case
+1187 - No evidence provided to the case, otherwise fine
+1188 - No evidence provided to the case, otherwise fine
+1189 - No evidence provided to the case, otherwise fine
+1192 - CASE EVIDENCE PRESENT ?? why was this flagged?
+1193 - No evidence provided to the case, otherwise fine
+1195 - Evidence + EXTRA evidence added to the case data
+1198 - Evidence + EXTRA evidence added to the case data
+1200 - Evidence + EXTRA evidence added to the case data
+1201 - Evidence + EXTRA evidence added to the case data
+1204 - No evidence provided to the case, otherwise fine
+1209 - Evidence added to the case data
+1210 - No evidence provided to the case, otherwise fine
+1212 - Evidence added to the case data
+1322 - Evidence added to the case data
+1376 - No evidence provided to the case, otherwise fine
+1404 - Evidence added to the case data
+1405 - Evidence added to the case data
+1406 - Evidence added to the case data
+1407 - Evidence added to the case data
+1408 - Evidence added to the case data
+1409 - Evidence added to the case data
+1410 - Evidence auto added to the case data
+1411 - Evidence auto added to the case data
+1412 - Evidence auto added to the case data
+1413 - Evidence auto added to the case data
+1414 - Evidence auto added to the case data
+1415 - Evidence auto added to the case data
+1416 - Evidence auto added to the case data
+1417 - Evidence auto added to the case data
+1418 - Evidence auto added to the case data
+1419 - Evidence auto added to the case data
+1420 - Evidence auto added to the case data
+1421 - Evidence auto added to the case data
+1422 - Evidence auto added to the case data
+1423 - Evidence auto added to the case data
+1424 - Evidence auto added to the case data
+1425 - Evidence auto added to the case data
+1426 - Evidence auto added to the case data
+1427 - Evidence auto added to the case data
+1428 - Evidence auto added to the case data
+1429 - Evidence auto added to the case data
+1430 - Evidence auto added to the case data
+1431 - Evidence auto added to the case data
+1432 - Evidence auto added to the case data
+1433 - Evidence auto added to the case data
+1434 - Evidence auto added to the case data
+1435 - Evidence auto added to the case data
+1436 - Evidence auto added to the case data
+1437 - Evidence auto added to the case data
+1438 - Evidence auto added to the case data
+1439 - Evidence auto added to the case data
+1440 - Evidence auto added to the case data
+1441 - Evidence auto added to the case data
+1442 - Evidence auto added to the case data
+1443 - Evidence auto added to the case data
+1444 - Evidence auto added to the case data
+1445 - Evidence auto added to the case data
+1446 - Evidence auto added to the case data
+1447 - Evidence auto added to the case data
+1448 - Evidence auto added to the case data
+1449 - Evidence auto added to the case data
+1450 - Evidence auto added to the case data
+1451 - Evidence auto added to the case data
+1452 - Evidence auto added to the case data
+1453 - Evidence auto added to the case data
+1454 - Evidence added to the case data
+1455 - Evidence auto added to the case data
+1456 - Evidence auto added to the case data
+1457 - Evidence auto added to the case data
+1458 - Evidence auto added to the case data
+1459 - Evidence auto added to the case data
+1460 - Evidence auto added
+1461 - Evidence auto added
+1462 - Evidence auto added
+1463 - Evidence auto added to the case data
+1464 - Evidence auto added to the case data
+1465 - Evidence auto added to the case data
+1466 - Evidence auto added to the case data
+1467 - Evidence auto added to the case data
+1468 - Evidence auto added to the case data
+1469 - Evidence auto added to the case data
+1470 - Evidence auto added to the case data
+1471 - Evidence auto added to the case data
+1472 - Evidence auto added to the case data
+1473 - Evidence auto added to the case data
+1474 - Evidence auto added to the case data
+1475 - Evidence auto added to the case data
+1476 - Evidence auto added to the case data
+1477 - Evidence auto added to the case data
+1478 - Evidence auto added to the case data
+1479 - Evidence auto added to the case data
+1480 - Evidence auto added to the case data
+1481 - Evidence auto added to the case data
+1482 - Evidence auto added to the case data
+1483 - Evidence auto added to the case data
+1484 - Evidence auto added to the case data
+1485 - Evidence auto added to the case data
+1486 - Evidence auto added to the case data
+1487 - Evidence auto added to the case data
+1488 - Evidence auto added to the case data
+1489 - Evidence auto added to the case data
+1490 - Evidence auto added to the case data
+1491 - Evidence auto added to the case data
+1492 - Evidence auto added to the case data
+1493 - Evidence auto added to the case data
+1494 - Evidence auto added to the case data
+1495 - Evidence auto added to the case data
+1496 - Evidence auto added to the case data
+1497 - Evidence auto added to the case data
+1498 - Evidence auto added to the case data
+1499 - Evidence auto added to the case data
+1500 - Evidence auto added to the case data
+1501 - Evidence auto added to the case data
+1502 - Evidence auto added to the case data
+1503 - Evidence auto added to the case data
+1504 - Evidence auto added to the case data
+1505 - Evidence auto added to the case data
+1506 - Evidence auto added to the case data
+1507 - Evidence auto added to the case data
+1508 - Evidence auto added to the case data
+1509 - Evidence auto added to the case data
+1510 - Evidence auto added to the case data
+1511 - Evidence auto added to the case data
+1512 - Evidence auto added to the case data
+1513 - Evidence auto added to the case data
+1514 - Evidence auto added to the case data
+1521 - Evidence auto added to the case data
+1522 - Evidence auto added to the case data
+1523 - Evidence auto added to the case data
+1524 - Evidence auto added to the case data
+1525 - Evidence auto added to the case data
+1526 - Evidence auto added to the case data
+1527 - Evidence auto added to the case data
+1528 - Evidence auto added to the case data
+1533 - Evidence auto added to the case data
+1534 - Evidence auto added to the case data
+1535 - Evidence auto added to the case data
+1536 - Evidence auto added to the case data
+1537 - Evidence auto added to the case data
+1538 - Evidence auto added to the case data
+1539 - Evidence auto added to the case data
+1540 - Evidence auto added to the case data
+1541 - Evidence auto added to the case data
+1542 - Evidence auto added to the case data
+1543 - Evidence auto added to the case data
+1544 - Evidence auto added to the case data
+1545 - Evidence auto added to the case data
+1546 - Evidence auto added to the case data
+1547 - Evidence auto added to the case data
+1548 - Evidence auto added to the case data
+1550 - Evidence auto added to the case data
+1551 - Evidence auto added to the case data
+1552 - Evidence auto added to the case data
+1553 - Evidence auto added to the case data
+1554 - Evidence auto added to the case data
+1555 - Evidence auto added to the case data
+1556 - Evidence auto added to the case data
+1558 - Evidence auto added to the case data
+1559 - Evidence auto added to the case data
+1560 - Evidence auto added to the case data
+1561 - Evidence auto added to the case data
+1562 - Evidence auto added to the case data
+1563 - Evidence auto added to the case data
+1564 - Evidence auto added to the case data
+1565 - Evidence auto added to the case data
+1566 - Evidence auto added to the case data
+1567 - Evidence auto added to the case data
+1568 - Evidence auto added to the case data
+1569 - Evidence auto added to the case data
+1570 - Evidence auto added to the case data
+1571 - Evidence auto added to the case data
+1572 - Evidence auto added to the case data
+1573 - Evidence auto added to the case data
+1575 - Evidence auto added to the case data
+1576 - Evidence auto added to the case data
+1578 - Evidence auto added to the case data
+1579 - Evidence auto added to the case data
+1580 - Evidence auto added to the case data
+1581 - Evidence auto added to the case data
+1582 - Evidence auto added to the case data
+1583 - Evidence auto added to the case data
+1584 - Evidence auto added to the case data
+1586 - Evidence added to the case data
+1588 - Evidence auto added to the case data
+1589 - Evidence auto added to the case data
+1590 - Evidence auto added to the case data
+1591 - Evidence auto added to the case data
+1592 - Evidence auto added to the case data
+1593 - Evidence auto added to the case data
+1594 - Evidence auto added to the case data
+1596 - Evidence auto added to the case data
+1597 - Evidence auto added to the case data
+1598 - Evidence auto added to the case data
+1599 - Evidence auto added to the case data
+1600 - Evidence auto added to the case data
+1605 - Evidence auto added to the case data
+1606 - Evidence auto added to the case data
+1607 - Evidence auto added to the case data
+1608 - Evidence auto added to the case data
+1609 - Evidence auto added to the case data
+1612 - Evidence auto added to the case data
+1613 - Evidence auto added to the case data
+1614 - Evidence auto added to the case data
+1615 - Evidence auto added to the case data
+1616 - Evidence auto added to the case data
+1617 - Evidence auto added to the case data
+1618 - Evidence auto added to the case data
+1619 - Evidence auto added to the case data
+1620 - Evidence auto added to the case data
+1622 - Evidence auto added to the case data
+1624 - Evidence auto added to the case data
+1625 - Evidence auto added to the case data
+1626 - Evidence auto added to the case data
+1627 - Evidence auto added to the case data
+1628 - Evidence auto added to the case data
+1629 - Evidence auto added to the case data
+1630 - Evidence auto added to the case data
+1631 - Evidence auto added to the case data
+1632 - Evidence auto added to the case data
+1633 - Evidence auto added to the case data
+1634 - Evidence auto added to the case data
+1635 - Evidence auto added to the case data
+1636 - Evidence auto added to the case data
+1637 - Evidence auto added to the case data
+1638 - Evidence auto added to the case data
+1639 - Evidence auto added to the case data
+1650 - Evidence added to the case data
+1651 - No evidence would load - GENERAL COURT
+1652 - No evidence would load - GENERAL COURT
+
+NO CASE DATA:
+#1192 - Case data filled in
